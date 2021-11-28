@@ -1,5 +1,5 @@
 let startDateOfTheYear = "2021-01-06";
-let skipDates = ["23.6.2021", "29.9.2021", "22.12.2021", "5.1.2021"];
+let skipDates = ["23.6.2021", "29.9.2021", "22.12.2021", "5.1.2022"];
 let wednesdayArray = [];
 let wednesday = new Date(startDateOfTheYear);
 let today = new Date();
